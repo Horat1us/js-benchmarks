@@ -1,0 +1,22 @@
+{
+  "name": "@horat1us/js-benchmarks",
+  "version": "1.0.0",
+  "description": "JS Benhcmarks Tests",
+  "main": "index.js",
+  "dependencies": {
+    "@types/mocha": "^7.0.1",
+    "@types/node": "^13.7.0",
+    "@types/puppeteer": "^2.0.0",
+    "puppeteer": "^2.1.0",
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  },
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Alexander Letnikow",
+  "license": "MIT"
+}
